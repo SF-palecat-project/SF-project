@@ -1,0 +1,5 @@
+[user]
+	name = Viktoria Vladimirova
+	email = viktorija.vladimirova@gmail.com
+[alias]
+	history = log --graph
